@@ -41,6 +41,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-<a href="saehim26@naver.com>
-  <img src="https://img.shields.io/badge/saehim26@naver.com-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
+<a href="mailto:saehim26@naver.com">
+    <img
+      src="https://img.shields.io/badge/saehim26@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  </a>
 </div>
