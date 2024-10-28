@@ -39,6 +39,10 @@
 <h5 align="center">🖥️ Devops 🖥️</h4>
 <div align="center">
  <img src="https://img.shields.io/badge/Amazon Web Service-232F3E.svg?style=for-the-badge&logo=Amazon Web Service&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Amazon S3-569A31.svg?style=for-the-badge&logo=Amazon S3&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/Amazon EC2-FF9900.svg?style=for-the-badge&logo=Amazon EC2&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Linux Ubuntu-E95420.svg?style=for-the-badge&logo=Linux Ubuntu&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp
 </div>
 
 
