@@ -1,5 +1,8 @@
 <div align="center">
-<img width="800px" src="https://github.com/user-attachments/assets/0ac3ea7f-1877-4494-b7f7-dae261bce663" />
+<img width="1000px" src="https://github.com/user-attachments/assets/0ac3ea7f-1877-4494-b7f7-dae261bce663" />
+</div>
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=404him&show_icons=true&theme=dark)
 </div>
 
 ## Hi there 👋
