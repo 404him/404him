@@ -5,6 +5,7 @@
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
+<h6 align="center">🖥️ Front-end 🖥️
 <div align="center">
  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -15,11 +16,30 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp
 </div>
 
+<br>
 
+<h6 align="center">🖥️ Back-end 🖥️
+<div align="center">
+ <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp
+</div>
+ 
+<br>
 
+<h6 align="center">🖥️ DataBase 🖥️
+<div align="center">
+ <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white" />&nbsp
+</div>
 
+<br>
 
-
+<h6 align="center">🖥️ Devops 🖥️
+<div align="center">
+ <img src="https://img.shields.io/badge/Amazon Web Service-232F3E.svg?style=for-the-badge&logo=Amazon Web Service&logoColor=white" />&nbsp
+</div>
 
 
 <br>
