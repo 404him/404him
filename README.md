@@ -52,9 +52,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
@@ -62,8 +59,8 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-
+  <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=Intellij&logoColor=22ABF3" />&nbsp
+<img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=VSCode&logoColor=22ABF3" />&nbsp
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
