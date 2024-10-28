@@ -56,12 +56,18 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+
 <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=Intellij&logoColor=22ABF3" />&nbsp
 <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=VSCode&logoColor=22ABF3" />&nbsp
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=for-the-badge&logo=Eclipse IDE&logoColor=22ABF3" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=Photoshop&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PremierePro-9999FF.svg?style=for-the-badge&logo=PremierePro&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
