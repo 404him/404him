@@ -12,6 +12,7 @@
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Json-000000?style=for-the-badge&logo=Json&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp
 </div>
 
 
