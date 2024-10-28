@@ -61,6 +61,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=Intellij&logoColor=22ABF3" />&nbsp
 <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=VSCode&logoColor=22ABF3" />&nbsp
+ <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=for-the-badge&logo=Eclipse IDE&logoColor=22ABF3" />&nbsp
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
